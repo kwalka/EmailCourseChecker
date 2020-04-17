@@ -5,6 +5,7 @@ When you open the application you will get this view.
 
 
 Add your UA credentials, courses numbers and make sure to have a maxEmails value higher than the number of emails you received after the online courses email.
+Press the Get Courses Button and wait.
 
 ![](Images/Edited.png)
 
